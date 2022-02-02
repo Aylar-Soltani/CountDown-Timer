@@ -1,1 +1,1 @@
-see project at netlify: https://aylar-countdown-timer.netlify.app/
+## check the app at: https://aylar-countdown-timer.netlify.app/
